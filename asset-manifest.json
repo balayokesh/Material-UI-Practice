@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/Material-UI-practice/static/js/main.ae6ded1f.chunk.js",
-    "main.js.map": "/Material-UI-practice/static/js/main.ae6ded1f.chunk.js.map",
-    "runtime-main.js": "/Material-UI-practice/static/js/runtime-main.4fc98763.js",
-    "runtime-main.js.map": "/Material-UI-practice/static/js/runtime-main.4fc98763.js.map",
-    "static/js/2.12aa2377.chunk.js": "/Material-UI-practice/static/js/2.12aa2377.chunk.js",
-    "static/js/2.12aa2377.chunk.js.map": "/Material-UI-practice/static/js/2.12aa2377.chunk.js.map",
-    "index.html": "/Material-UI-practice/index.html",
-    "static/js/2.12aa2377.chunk.js.LICENSE.txt": "/Material-UI-practice/static/js/2.12aa2377.chunk.js.LICENSE.txt"
+    "main.js": "/Material-UI-Practice/static/js/main.ae6ded1f.chunk.js",
+    "main.js.map": "/Material-UI-Practice/static/js/main.ae6ded1f.chunk.js.map",
+    "runtime-main.js": "/Material-UI-Practice/static/js/runtime-main.c6b0388a.js",
+    "runtime-main.js.map": "/Material-UI-Practice/static/js/runtime-main.c6b0388a.js.map",
+    "static/js/2.12aa2377.chunk.js": "/Material-UI-Practice/static/js/2.12aa2377.chunk.js",
+    "static/js/2.12aa2377.chunk.js.map": "/Material-UI-Practice/static/js/2.12aa2377.chunk.js.map",
+    "index.html": "/Material-UI-Practice/index.html",
+    "static/js/2.12aa2377.chunk.js.LICENSE.txt": "/Material-UI-Practice/static/js/2.12aa2377.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4fc98763.js",
+    "static/js/runtime-main.c6b0388a.js",
     "static/js/2.12aa2377.chunk.js",
     "static/js/main.ae6ded1f.chunk.js"
   ]
